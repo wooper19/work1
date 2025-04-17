@@ -31,7 +31,7 @@ export default function CateKeyvisual() {
   };
 
   return (
-    <div className="w-full min-h-screen bg-white flex flex-col justify-start items-center sm:overflow-y-auto py-12 px-8"> {/* Use min-h-screen */}
+    <div className="w-full h-400 sm:h-full bg-white flex flex-col justify-start items-center sm:overflow-y-auto py-12 px-8"> {/* Use min-h-screen */}
 
       {/* --- Section 1: 藝術季視覺設計 --- */}
       <div className="flex flex-col w-full">
